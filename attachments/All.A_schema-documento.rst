@@ -21,9 +21,6 @@ Approvazione
 \                                                                              
 =================== ================== ======================= ================ =================
 
-**
-**
-
 .. contents::
    :depth: 3
 ..
@@ -58,10 +55,10 @@ aggiornare con le norme più recenti.
 Normativa nazionale
 
 -  Decreto Legislativo 7 marzo 2005, n, 82, e s,m.i - Codice
-   dell'Amministrazione Digitale (CAD); |image1|
+   dell'Amministrazione Digitale (CAD);
 
 -  Decreto del Presidente del Consiglio dei Ministri 3 dicembre 2013 -
-   Regole tecniche in materia di sistema di conservazione; |image2|
+   Regole tecniche in materia di sistema di conservazione;
 
 -  Circolare AglD n. 65/2014 (G.U. n. 89 del 16/04/2014) - Modalità per
    l'accreditamento e la vigilanza sui soggetti pubblici e privati che
@@ -70,7 +67,7 @@ Normativa nazionale
 Normativa europea
 
 -  Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del
-   27 aprile 2016 |image3|\ relativo alla protezione delle persone
+   27 aprile 2016 relativo alla protezione delle persone
    fisiche con riguardo al trattamento dei dati personali, nonché alla
    libera circolazione di tali dati;
 
@@ -301,8 +298,8 @@ controllo, da parte del conservatore cessante, sul contenuto degli
 archivi da trasferire al fine di dichiarare completata l’attività a cui
 seguirà la comunicazione al soggetto subentrante.
 
-Trasferimento e presa in carico da parte del soggetto subentrante\ |image4|
----------------------------------------------------------------------------
+Trasferimento e presa in carico da parte del soggetto subentrante
+-----------------------------------------------------------------
 
 Riportare la descrizione delle fasi previste per il trasferimento degli
 archivi al soggetto subentrante comprese le fasi di presa in carico e
