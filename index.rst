@@ -10,4 +10,4 @@ Capoverso/i introduttivo/i alle Linee Guida.
    :maxdepth: 3
 
    LLGG_cessazione-servizio-conservazione.rst
-   All.A_schema-documento.rst
+   attachments/All.A_schema-documento.rst
