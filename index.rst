@@ -1,12 +1,13 @@
-#################################################
-Regole Tecniche circa ARGOMENTO DELLE LINEE GUIDA
-#################################################
+##########################################################################################################
+Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti informatici
+##########################################################################################################
 
 Capoverso/i introduttivo/i alle Linee Guida.
 
 .. toctree::
-   :caption: Sommario
+   :caption: Indice
    :numbered:
    :maxdepth: 3
 
-   NOME_FILE_RST_PRINCIPALE.rst
+   LLGG_cessazione-servizio-conservazione.rst
+   All.A_schema-documento.rst
