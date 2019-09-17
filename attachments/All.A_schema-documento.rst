@@ -1,4 +1,4 @@
-***Allegato A***
+**Allegato A**
 
 **Piano di Cessazione del Servizio di Conservazione**
 
@@ -26,23 +26,25 @@ Approvazione
 
 **Indice**
 
-`1 Premessa <#_Toc10123293>`__
+`1 Premessa 3 <#_Toc10123293>`__
 
-`2 Requisiti del piano di cessazione <#requisiti-del-piano-di-cessazione>`__
+`2 Requisiti del piano di cessazione
+3 <#requisiti-del-piano-di-cessazione>`__
 
-`3 Tempistiche della procedura di cessazione <#tempistiche-della-procedura-di-cessazione>`__
+`3 Tempistiche della procedura di cessazione
+4 <#tempistiche-della-procedura-di-cessazione>`__
 
-`4 Gestione del documento <#gestione-del-documento>`__
+`4 Gestione del documento 4 <#gestione-del-documento>`__
 
-`5 Schema del documento <#schema-del-documento>`__
+`5 Schema del documento 4 <#schema-del-documento>`__
 
-`1 Introduzione <#_Toc10127553>`__
+`1 Introduzione 3 <#_Toc10127553>`__
 
-`2 Definizioni e acronimi <#_Toc10127554>`__
+`2 Definizioni e acronimi 3 <#_Toc10127554>`__
 
-`3 Riferimenti normativi <#riferimenti-normativi>`__
+`3 Riferimenti normativi 3 <#riferimenti-normativi>`__
 
-`4 Terze parti coinvolte <#terze-parti-coinvolte>`__
+`4 Terze parti coinvolte 4 <#terze-parti-coinvolte>`__
 
 `5 Analisi dei rischi 4 <#analisi-dei-rischi>`__
 
