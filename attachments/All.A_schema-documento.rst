@@ -54,25 +54,25 @@ aggiornare con le norme più recenti.
 
 Normativa nazionale
 
--  Decreto Legislativo 7 marzo 2005, n, 82, e s,m.i - Codice
+-  Decreto Legislativo 7 marzo 2005, №82, e s,m.i - Codice
    dell'Amministrazione Digitale (CAD);
 
 -  Decreto del Presidente del Consiglio dei Ministri 3 dicembre 2013 -
    Regole tecniche in materia di sistema di conservazione;
 
--  Circolare AglD n. 65/2014 (G.U. n. 89 del 16/04/2014) - Modalità per
+-  Circolare AglD №65/2014 (G.U. №89 del 16/04/2014) - Modalità per
    l'accreditamento e la vigilanza sui soggetti pubblici e privati che
    svolgono attività di conservazione dei documenti informatici;
 
 Normativa europea
 
--  Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del
-   27 aprile 2016 relativo alla protezione delle persone
+-  Regolamento (UE) №2016/679 del Parlamento europeo e del Consiglio, del
+   27 aprile 2016 (“GDPR”) relativo alla protezione delle persone
    fisiche con riguardo al trattamento dei dati personali, nonché alla
    libera circolazione di tali dati;
 
--  Regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio,
-   del 23 luglio 2014 (eIDAS), in materia di identificazione elettronica
+-  Regolamento (UE) №910/2014 del Parlamento europeo e del Consiglio,
+   del 23 luglio 2014 (“eIDAS”), in materia di identificazione elettronica
    e servizi fiduciari per le transazioni elettroniche nel mercato
    interno.
 
@@ -87,9 +87,9 @@ Standard internazionali
 -  UNI 11386:2010 - Supporto all'Interoperabilità nella Conservazione e
    nel Recupero degli Oggetti digitali (SinCRO);
 
--  ETSI TS 119 511 v0.0.5;
+-  This is a `TS 119-511 <https://www.etsi.org/deliver/etsi_ts/119500_119599/119511/01.01.01_60/ts_119511v010101p.pdf>`_ v0.0.5;
 
--  ETSI TS 119 512 v0.0.6;
+-  ETSI TS 119-512 v0.0.6;
 
 -  ISAD (G) - General International Standard Archival Description.
 
