@@ -1,9 +1,12 @@
-# Regole Tecniche circa ARGOMENTO DELLE REGOLE TECNICHE
-## Linee Guida AgID ex art. 71 del CAD
+# Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti informatici
 
-Capoverso/i introduttivo/i.
+L’art. 71 del Codice dell’Amministrazione Digitale - decreto legislativo 7 marzo 2005, n. 82 e s.m.i. stabilisce che l’AgID, previa consultazione pubblica da svolgersi entro il termine di trenta giorni, sentiti le amministrazioni competenti e il Garante per la protezione dei dati personali nelle materie di competenza, nonché acquisito il parere della Conferenza unificata, adotta linee guida contenenti le regole tecniche e di indirizzo per l’attuazione del Codice per l’Amministrazione Digitale (CAD). Con determinazione AgID n. 160 del 17 maggio 2018 è stato pubblicato il regolamento che disciplina il procedimento per l’adozione
+delle suddette linee guida. Con successiva determinazione n. 340 del 18 ottobre 2018 AgID ha individuato sia le linee guida da realizzare che nominato i referenti per la stesura delle medesime.
 
-Modificare i file `README.md` e il file `index.rst` affinché contengano la descrizione generale delle Linee Guida e, rispettivamente, l'indice dei contenuti del documento, che può puntare ad altri file RST; si consiglia l'uso di un file RST per ciascun documento separato (ad esempio: documento principale più i suoi Allegati). Documenti particolarmente lunghi possono essere suddivisi usando un file RST per ciascun capitolo.
+Le presenti linee guida stabiliscono le modalità per la stesura e la gestione del piano di cessazione del servizio di conservazione sia nel caso di cessazione volontaria che involontaria.
+
+Il piano di cessazione è un documento previsto all’articolo 24 del regolamento EIDAS, applicabile ai conservatori accreditati in quanto è richiamato dal CAD all’articolo 29 comma 2 (qualificazione e accreditamento). Tale articolo stabilisce che il richiedente
+l’accreditamento a svolgere l’attività di conservatore dei documenti informatici deve trovarsi nelle condizioni previste dall’articolo 24 del suddetto regolamento.
 
  * Si consiglia di collocare gli eventuali Allegati in una sottocartella dedicata `attachments/`.
  * Si consiglia di collocare gli eventuali file multimediali (e.g. immagini, video, ecc.) in sottocartelle di secondo livello, separate per tipologia (e.g. `images/`, `audio/`, ecc.), all'interno di una sottocartella dedicata `media/`.
