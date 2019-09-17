@@ -1,4 +1,6 @@
 .. contents::
+   :caption: Indice
+   :numbered:
    :depth: 3
 ..
 
