@@ -24,68 +24,11 @@ Approvazione
 **
 **
 
-**Indice**
+.. contents::
+   :depth: 3
+..
 
-`1 Premessa 3 <#_Toc10123293>`__
 
-`2 Requisiti del piano di cessazione
-3 <#requisiti-del-piano-di-cessazione>`__
-
-`3 Tempistiche della procedura di cessazione
-4 <#tempistiche-della-procedura-di-cessazione>`__
-
-`4 Gestione del documento 4 <#gestione-del-documento>`__
-
-`5 Schema del documento 4 <#schema-del-documento>`__
-
-`1 Introduzione 3 <#_Toc10127553>`__
-
-`2 Definizioni e acronimi 3 <#_Toc10127554>`__
-
-`3 Riferimenti normativi 3 <#riferimenti-normativi>`__
-
-`4 Terze parti coinvolte 4 <#terze-parti-coinvolte>`__
-
-`5 Analisi dei rischi 4 <#analisi-dei-rischi>`__
-
-`6 Programmazione delle attività di cessazione
-5 <#programmazione-delle-attività-di-cessazione>`__
-
-`7 Descrizione del processo di cessazione
-5 <#descrizione-del-processo-di-cessazione>`__
-
-`7.1 Avvio del processo 6 <#_Toc10127560>`__
-
-`7.2 Comunicazione ai clienti del servizio
-6 <#comunicazione-ai-clienti-del-servizio>`__
-
-`7.3 Comunicazione ad AglD 6 <#comunicazione-ad-agld>`__
-
-`7.4 Comunicazioni a eventuali terze parti coinvolte
-7 <#comunicazioni-a-eventuali-terze-parti-coinvolte>`__
-
-`7.5 Analisi preliminare dei pacchetti di archiviazione
-7 <#analisi-preliminare-dei-pacchetti-di-archiviazione>`__
-
-`7.6 Trasferimento degli archivi di conservazione 7 <#_Toc10127565>`__
-
-`7.7 Comunicazione delle modalità e tempistiche di trasferimento degli
-archivi
-8 <#comunicazione-delle-modalità-e-tempistiche-di-trasferimento-degli-archivi>`__
-
-`7.8 Predisposizione delle infrastrutture per la migrazione degli
-archivi di conservazione
-8 <#predisposizione-delle-infrastrutture-per-la-migrazione-degli-archivi-di-conservazione>`__
-
-`7.9 Descrizione del processo di migrazione
-8 <#descrizione-del-processo-di-migrazione>`__
-
-`7.10 Trasferimento e presa in carico da parte del soggetto
-subentrante\ |image0|
-8 <#trasferimento-e-presa-in-carico-da-parte-del-soggetto-subentrante>`__
-
-`8 Cancellazione degli archivi di conservazione
-8 <#cancellazione-degli-archivi-di-conservazione>`__
 
 Introduzione
 ============
