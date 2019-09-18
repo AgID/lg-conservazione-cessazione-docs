@@ -87,9 +87,9 @@ Standard internazionali
 -  UNI 11386:2010 - Supporto all'Interoperabilità nella Conservazione e
    nel Recupero degli Oggetti digitali (SinCRO);
 
--  This is a `TS 119-511 <https://www.etsi.org/deliver/etsi_ts/119500_119599/119511/01.01.01_60/ts_119511v010101p.pdf>`_ v0.0.5;
+-  This is a TS 119-511;
 
--  ETSI TS 119-512 v0.0.6;
+-  ETSI TS 119-512;
 
 -  ISAD (G) - General International Standard Archival Description.
 
