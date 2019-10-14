@@ -5,12 +5,8 @@ delle suddette linee guida. Con successiva determinazione n. 340 del 18 ottobre 
 
 Le presenti linee guida stabiliscono le modalità per la stesura e la gestione del piano di cessazione del servizio di conservazione sia nel caso di cessazione volontaria che involontaria.
 
-Il piano di cessazione è un documento previsto all’articolo 24 del regolamento EIDAS, applicabile ai conservatori accreditati in quanto è richiamato dal CAD all’articolo 29 comma 2 (qualificazione e accreditamento). Tale articolo stabilisce che il richiedente
+Il piano di cessazione è un documento previsto all’articolo 24 del Regolamento (UE) №910/2014 “eIDAS”, applicabile ai conservatori accreditati in quanto è richiamato dal CAD all’articolo 29 comma 2 (qualificazione e accreditamento). Tale articolo stabilisce che il richiedente
 l’accreditamento a svolgere l’attività di conservatore dei documenti informatici deve trovarsi nelle condizioni previste dall’articolo 24 del suddetto regolamento.
-
- * Si consiglia di collocare gli eventuali Allegati in una sottocartella dedicata `attachments/`.
- * Si consiglia di collocare gli eventuali file multimediali (e.g. immagini, video, ecc.) in sottocartelle di secondo livello, separate per tipologia (e.g. `images/`, `audio/`, ecc.), all'interno di una sottocartella dedicata `media/`.
- * Si consiglia di collocare gli eventuali esempi di codice o documenti elettronici in una sottocartella dedicata `samples/`, eventualmente separati per tipologia mediante sottocartelle di secondo livello.
 
 ## Link al documento e consultazione
 
