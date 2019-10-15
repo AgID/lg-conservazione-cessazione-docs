@@ -1,6 +1,7 @@
-.. section-numbering::
 
-# Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti informatici
+##########################################################################################################
+Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti informatici
+##########################################################################################################
 
 Versione 0.1 del 02/10/2019
 
@@ -9,6 +10,9 @@ Versione Data       Determinazione Tipologia modifica
 ======== ========== ============== =====================================
 0.1      02/10/2019                Adeguamento al formato di riferimento
 ======== ========== ============== =====================================
+
+.. highlights::  
+
 
 Prefazione
 ==========
