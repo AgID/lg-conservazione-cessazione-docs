@@ -19,5 +19,5 @@ Versione Data       Determinazione Tipologia modifica
    :numbered:
    :maxdepth: 3
 
-   LLGG_cessazione-servizio-conservazione.rst
-   attachments/All.A_schema-documento.rst
+   main_index.rst
+   appA_index.rst
