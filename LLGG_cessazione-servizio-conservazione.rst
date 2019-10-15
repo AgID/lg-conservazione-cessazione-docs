@@ -1,13 +1,11 @@
-.. section-numbering::
-
-**Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti informatici**
+# Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti informatici
 
 Versione 0.1 del 02/10/2019
 
 ======== ========== ============== =====================================
 Versione Data       Determinazione Tipologia modifica
 ======== ========== ============== =====================================
-0.1      02.10.2019                Adeguamento al formato di riferimento
+0.1      02/10/2019                Adeguamento al formato di riferimento
 ======== ========== ============== =====================================
 
 Prefazione
@@ -34,14 +32,13 @@ Introduzione
 
 Scopo
 -----
-L’art. 71 del *Codice dell’Amministrazione Digitale* (decreto legislativo
-7 marzo 2005, №82 e s.m.i.) stabilisce che l’AgID, previa consultazione
+L’articolo 71 del *Codice dell’Amministrazione Digitale* (*CAD*) ― decreto legislativo
+7 marzo 2005, №82 e s.m.i. ― stabilisce che l’AgID, previa consultazione
 pubblica da svolgersi entro il termine di trenta giorni, sentiti le
 amministrazioni competenti e il Garante per la protezione dei dati
 personali nelle materie di competenza, nonché acquisito il parere della
 Conferenza unificata, adotta linee guida contenenti le regole tecniche e
-di indirizzo per l’attuazione del Codice per l’Amministrazione Digitale
-(CAD). Con determinazione AgID №160 del 17 maggio 2018 è stato
+di indirizzo per l’attuazione del CAD. Con determinazione AgID №160 del 17 maggio 2018 è stato
 pubblicato il regolamento che disciplina il procedimento per l’adozione
 delle suddette linee guida. Con successiva determinazione №340 del 18
 ottobre 2018 AgID ha individuato sia le linee guida da realizzare che
@@ -60,7 +57,7 @@ suddetto regolamento.
 Struttura
 ---------
 La presente linea guida oltre al documento suddetto è composto
-dall’allegato tecnico “Schema del piano di cessazione”.
+dall’allegato tecnico *Schema del piano di cessazione*.
 
 Gruppo di lavoro
 ----------------
