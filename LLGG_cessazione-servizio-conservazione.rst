@@ -1,24 +1,3 @@
-
-##########################################################################################################
-Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti informatici
-##########################################################################################################
-
-Versione 0.1 del 02/10/2019
-
-======== ========== ============== =====================================
-Versione Data       Determinazione Tipologia modifica
-======== ========== ============== =====================================
-0.1      02/10/2019                Adeguamento al formato di riferimento
-======== ========== ============== =====================================
-
-.. admonition:: consultation
-   La consultazione pubblica relativa al presente documento è attiva dal **14
-   maggio** al **13 giugno 2019**. Questo documento raccoglie il testo delle
-   Linee guida in oggetto, disponibile per la consultazione pubblica.
-
-.. highlights::  
-
-
 Prefazione
 ==========
 Conformemente alle norme ISO/IEC Directives, Part 3 per la stesura dei
