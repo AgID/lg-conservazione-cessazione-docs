@@ -1,5 +1,9 @@
 .. _cessazione_conservatori:
 
+.. toctree::
+   :numbered:
+
+
 Prefazione
 ==========
 Conformemente alle norme ISO/IEC Directives, Part 3 per la stesura dei
