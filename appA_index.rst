@@ -1,7 +1,9 @@
-**Allegato A**
-#################################################
-Piano di Cessazione del Servizio di Conservazione
-#################################################
+##########
+Allegato A
+##########
+
+**Piano di Cessazione del Servizio di Conservazione**
+
 
 .. toctree::
   :maxdepth: 3
