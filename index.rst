@@ -22,4 +22,4 @@ Versione Data       Determinazione Tipologia modifica
 
 .. only:: html
 
-   .. include:: appA_index.rst
+   .. include:: attA_index.rst
