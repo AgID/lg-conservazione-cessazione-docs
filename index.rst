@@ -18,6 +18,7 @@ Versione Data       Determinazione Tipologia modifica
    :caption: Sommario
    :numbered:
    :maxdepth: 3
+   
    main_index.rst
 
 .. only:: html
