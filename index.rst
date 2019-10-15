@@ -7,7 +7,7 @@ Linee Guida per la stesura del piano di cessazione del servizio di conservazione
    Linee guida in oggetto, disponibile per la consultazione pubblica.
 
 .. toctree::
-   :caption: Indice
+   :caption: Sommario
    :numbered:
    :maxdepth: 3
 
