@@ -1,3 +1,5 @@
+.. _cessazione_conservatori:
+
 Prefazione
 ==========
 Conformemente alle norme ISO/IEC Directives, Part 3 per la stesura dei
