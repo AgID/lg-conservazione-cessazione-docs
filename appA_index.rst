@@ -1,15 +1,7 @@
-##########
-Allegato A
-##########
-
-
-Descrivere le finalità e gli argomenti contenuti nel documento.
-Indicare i riferimenti delle organizzazioni e dei soggetti che sono
-responsabili della stesura e aggiornamento del documento e della sua
-esecuzione.
-Indicare i riferimenti (nome, l'indirizzo di posta elettronica, il
-numero di telefono) del referente del documento e della sua
-area/ufficio.
+**Allegato A**
+#################################################
+Piano di Cessazione del Servizio di Conservazione
+#################################################
 
 .. toctree::
   :maxdepth: 3
