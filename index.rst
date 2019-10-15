@@ -6,6 +6,14 @@ Linee Guida per la stesura del piano di cessazione del servizio di conservazione
    maggio** al **13 giugno 2019**. Questo documento raccoglie il testo delle
    Linee guida in oggetto, disponibile per la consultazione pubblica.
 
+Versione 0.1 del 02/10/2019
+
+======== ========== ============== =====================================
+Versione Data       Determinazione Tipologia modifica
+======== ========== ============== =====================================
+0.1      02/10/2019                Adeguamento al formato di riferimento
+======== ========== ============== =====================================
+
 .. toctree::
    :caption: Sommario
    :numbered:
