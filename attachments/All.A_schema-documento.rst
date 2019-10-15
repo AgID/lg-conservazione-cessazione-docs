@@ -1,8 +1,7 @@
-##########
-Allegato A
-##########
+.. _piano_cessazione:
 
-**Piano di Cessazione del Servizio di Conservazione**
+Allegato A: Piano di Cessazione del Servizio di Conservazione
+=============================================================
 
 **(“Nome del soggetto accreditato”)**
 
@@ -23,10 +22,6 @@ Allegato A
 \                                                                          
 ================== ================= ====================== =============== =============
 
-.. contents::
-   :depth: 3
-..
-
 
 Introduzione
 ============
@@ -34,6 +29,7 @@ Descrivere le finalità e gli argomenti contenuti nel documento.
 Indicare i riferimenti delle organizzazioni e dei soggetti che sono
 responsabili della stesura e aggiornamento del documento e della sua
 esecuzione.
+
 Indicare i riferimenti (nome, l'indirizzo di posta elettronica, il
 numero di telefono) del referente del documento e della sua
 area/ufficio.
@@ -57,6 +53,7 @@ aggiornare con le norme più recenti.
 -  Circolare AglD №65/2014 (G.U. №89 del 16/04/2014) — *Modalità per
    l'accreditamento e la vigilanza sui soggetti pubblici e privati che
    svolgono attività di conservazione dei documenti informatici*.
+
 **Normativa europea**
 
 -  Regolamento (UE) №2016/679 del Parlamento europeo e del Consiglio, del
@@ -67,6 +64,7 @@ aggiornare con le norme più recenti.
    del 23 luglio 2014 (“*eIDAS*”), in materia di identificazione elettronica
    e servizi fiduciari per le transazioni elettroniche nel mercato
    interno.
+
 **Standard internazionali**
 
 -  ISO/TR 18492:2005 — *Long-term preservation of electronic
@@ -89,9 +87,11 @@ Analisi dei rischi
 ione previsto dal piano descrivendo gli eventi probabili che nel
 verificarsi possono produrre effetti indesiderati rilevanti e le
 eventuali azioni di mitigazione individuate da adottare.
+
 Alcuni eventi possono derivare dalla gestione del sistema di
 conservazione nel corso dell’erogazione del servizio di conservazione e
 antecedente all’avvio del processo di cessazione, ad esempio:
+
 -  Grado di affidabilità dell’impianto tecnologico, livelli di
    aggiornamento e di sicurezza fisica e logica;
 -  attività di controllo continua;
@@ -99,14 +99,17 @@ antecedente all’avvio del processo di cessazione, ad esempio:
    connessi all'obsolescenza HW/SW;
 -  presenza negli archivi di PDA non conformi o non più validi (MT
    scadute e non rinnovate);
+   
 Alcuni elementi di rischio del processo di cessazione possono invece
 essere:
+
 -  il grado di interoperabilità nei processi di migrazione ad altro
    sistema di conservazione;
 -  la leggibilità e autenticità dei dati migrati (rispettando i formati
    standard);
 -  la perdita di informazioni;
 -  azioni dolose da parte del personale interno.
+
 La pianificazione dei rischi connessi alla cessazione dell’attività di
 conservazione dovrebbe prendere come riferimento di alto livello la
 norma UNI ISO 31000.
@@ -116,13 +119,16 @@ Programmazione delle attività di cessazione
 Descrivere le modalità per la programmazione delle attività indicate nel
 capitolo successivo considerando le propedeuticità e stimando le durate.
 La programmazione delle attività deve essere:
+
 -  predisposta, tenendo conto dei rischi correlati allo svolgimento
    delle attività;
 -  gestita, assegnando le risorse e le responsabilità di ogni attività;
 -  monitorata e documentata.
+
 Si può utilizzare una matrice delle assegnazioni responsabilità (RACI),
 in cui si individuano gli attori coinvolti, le fasi del processo e le
 responsabilità.
+
 Indicare metodi e ruoli previsti per l’attività di verifica
 dell’esecuzione della programmazione delle attività di cessazione.
 Rappresentare la programmazione con un Diagramma di GANNT o strumento
@@ -153,17 +159,20 @@ Comunicazione ai clienti del servizio
 Indicare l’organo preposto alla comunicazione. Riportare i tempi, il
 contenuto e le modalità di comunicazione ai soggetti produttori
 dell’imminente cessazione del servizio di conservazione.
+
 Nel contenuto della comunicazione occorre indicare la data di cessazione
 dell’accreditamento e l’informazione che gli archivi digitali saranno
 trasferiti al soggetto produttore o a un soggetto da questo indicato. Se
 il produttore è soggetto pubblico è opportuno segnalare anche l’obbligo
 per quest’ultimo di avvisare la sovrintendenza o le commissioni di
 sorveglianza.
+
 La comunicazione dovrà anche informare sulla possibilità da parte del
 cliente del servizio, se Pubblica Amministrazione, di avvalersi del
 conservatore accreditato, se proposto dal soggetto cessante, oppure di
 optare per il recupero e versamento a suo carico della documentazione
 conservata.
+
 Per i clienti privati occorre indicare l’ulteriore opzione di continuare
 ad avvalersi del servizio senza più l’accreditamento previo accordo tra
 le parti.
@@ -192,6 +201,7 @@ archiviazione, presenza di dati personali sensibili e sanitari associati
 alle diverse tipologie documentali. L'elenco di consistenza dovrà
 indicare, inoltre, la presenza di aggregazioni documentali per le quali
 è previsto un sistema di fascicolazione e di serie archivistiche.
+
 L'elenco di consistenza dovrà riportare, inoltre, il riferimento ad
 eventuali piani di classificazione e di scarto utilizzati per la
 gestione dei complessi documentari.
@@ -200,11 +210,14 @@ Trasferimento degli archivi di conservazione
 --------------------------------------------
 Descrivere le procedure e gli aspetti tecnici e i tempi per la messa a
 disposizione degli archivi di conservazione.
+
 Definire il processo di pianificazione delle attività di trasferimento
 degli archivi indicando le fasi che si prevedono, i tempi, i soggetti
 coinvolti e le responsabilità.
+
 Si riporta di seguito un elenco non esaustivo delle attività da
 pianificare:
+
 -  Predisposizione della documentazione in cui sono definite le
    caratteristiche strutturali dei volumi da versare, le tipologie
    documentali, il contesto archivistico della documentazione versata, i
