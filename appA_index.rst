@@ -7,5 +7,6 @@ Allegato A
 
 .. toctree::
   :maxdepth: 3
-  :caption: Indice dei contenuti
+  :caption: Sommario
+  
   attachments/All.A_schema-documento.rst
