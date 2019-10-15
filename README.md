@@ -1,7 +1,7 @@
-# Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti informatici
+# Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti digitali
 
-L’art. 71 del Codice dell’Amministrazione Digitale - decreto legislativo 7 marzo 2005, n. 82 e s.m.i. stabilisce che l’AgID, previa consultazione pubblica da svolgersi entro il termine di trenta giorni, sentiti le amministrazioni competenti e il Garante per la protezione dei dati personali nelle materie di competenza, nonché acquisito il parere della Conferenza unificata, adotta linee guida contenenti le regole tecniche e di indirizzo per l’attuazione del Codice per l’Amministrazione Digitale (CAD). Con determinazione AgID n. 160 del 17 maggio 2018 è stato pubblicato il regolamento che disciplina il procedimento per l’adozione
-delle suddette linee guida. Con successiva determinazione n. 340 del 18 ottobre 2018 AgID ha individuato sia le linee guida da realizzare che nominato i referenti per la stesura delle medesime.
+L’articolo 71 del *Codice dell’Amministrazione Digitale* (*CAD*) ― decreto legislativo 7 marzo 2005 №82 e s.m.i. ― stabilisce che l’AgID, previa consultazione pubblica da svolgersi entro il termine di trenta giorni, sentiti le amministrazioni competenti e il Garante per la protezione dei dati personali nelle materie di competenza, nonché acquisito il parere della Conferenza unificata, adotta linee guida contenenti le regole tecniche e di indirizzo per l’attuazione del CAD. Con determinazione AgID №160 del 17 maggio 2018 è stato pubblicato il regolamento che disciplina il procedimento per l’adozione
+delle suddette linee guida. Con successiva determinazione №340 del 18 ottobre 2018 AgID ha individuato sia le linee guida da realizzare che nominato i referenti per la stesura delle medesime.
 
 Le presenti linee guida stabiliscono le modalità per la stesura e la gestione del piano di cessazione del servizio di conservazione sia nel caso di cessazione volontaria che involontaria.
 
