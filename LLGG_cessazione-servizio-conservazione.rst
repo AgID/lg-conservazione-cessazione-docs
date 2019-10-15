@@ -1,3 +1,12 @@
+Versione 0.1 del 02/10/2019
+
+======== ========== ============== =====================================
+Versione Data       Determinazione Tipologia modifica
+======== ========== ============== =====================================
+0.1      02/10/2019                Adeguamento al formato di riferimento
+======== ========== ============== =====================================
+
+
 Prefazione
 ==========
 Conformemente alle norme ISO/IEC Directives, Part 3 per la stesura dei
