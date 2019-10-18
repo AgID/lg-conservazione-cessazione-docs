@@ -6,19 +6,19 @@ Requisiti
 Requisiti del piano di cessazione
 ---------------------------------
 Il documento Technical Specification (TS), pubblicato da ETSI con
-l’identificativo ETSI 119-511, sui requisiti di policy e sicurezza per i
+l’identificativo ETSI `TS 119-511 <https://www.etsi.org/deliver/etsi_ts/119500_119599/119511/01.01.01_60/ts_119511v010101p.pdf>`_;, sui requisiti di policy e sicurezza per i
 trust service providers (TSP) che offrono servizi di conservazione a
 lungo termine delle firme digitali o, in generale, di dati che usano
 tecniche di firma digitale, al paragrafo 7.12 stabilisce i requisiti che
 riguardano il processo di cessazione, richiamando quelli indicati nella
-norma ETSI EN 319 401 paragrafo 7.12 relativi ai requisiti di policy
+norma ETSI ETSI `TS 319-401 <https://www.etsi.org/deliver/etsi_en/319400_319499/319401/02.02.00_20/en_319401v020200a.pdf>`_; paragrafo 7.12 relativi ai requisiti di policy
 generali per tutti i TSP, aggiungendo un ulteriore requisito che
 riguarda specificatamente i TSP che erogano servizi di conservazione di
 firma digitale o di dati che usano tecniche di firma digitale.
 Per la stesura delle presenti linee guida sono inoltre considerate le
 linee guida ENISA sulla cessazione dei servizi fiduciari qualificati che
 hanno lo scopo di facilitare l'attuazione delle disposizioni relative ai
-servizi fiduciari del regolamento eIDAS nel settore della cessazione dei
+servizi fiduciari del regolamento :ref:`eIDAS <eiDAS>` nel settore della cessazione dei
 servizi fiduciari.
 
 Tempistiche della procedura di cessazione
