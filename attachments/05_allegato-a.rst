@@ -1,4 +1,4 @@
-.. _piano_cessazione:
+.. _`§A`:
 
 Allegato A: Piano di Cessazione del Servizio di Conservazione
 =============================================================
@@ -67,13 +67,11 @@ aggiornare con le norme più recenti.
 
 **Standard internazionali**
 
--  ISO/TR 18492:2005 — *Long-term preservation of electronic
-   document-based information*;
--  ISO 14721:2005/2012 — *Space data and information transfer systems —
+-  ISO/TR `18492 <https://www.iso.org/standard/38716.html>`_:2005 — *Long-term preservation of electronic document-based information*;
+-  ISO `14721 <https://www.iso.org/standard/57284.html>`_:2005/2012 — *Space data and information transfer systems —
    Open archival Information system (OAIS) — Reference model*;
--  UNI 11386:2010 — *Supporto all'Interoperabilità nella Conservazione e
-   nel Recupero degli Oggetti digitali (SinCRO)*;
--  ETSI TS 119-511 v0.0.5;
+-  UNI `11386 <http://store.uni.com/catalogo/index.php/uni-11386-2010?josso_back_to=http://store.uni.com/josso-security-check.php&josso_cmd=login_optional&josso_partnerapp_host=store.uni.com>`__:2010, *Supporto all'Interoperabilità nella Conservazione e nel Recupero degli Oggetti digitali (SinCRO)*;
+-  ETSI `TS 119-511 <https://www.etsi.org/deliver/etsi_ts/119500_119599/119511/01.01.01_60/ts_119511v010101p.pdf>`_ v0.0.5;
 -  ETSI TS 119-512 v0.0.6;
 -  ISAD (G) - *General International Standard Archival Description*.
 
@@ -279,3 +277,11 @@ nell’ambito di procedimenti giudiziali e per assicurare la continuità
 del servizio (EIDAS art. 24 par.2, lettera h). Indicare inoltre i ruoli
 coinvolti e le modalità di gestione della prova della distruzione degli
 archivi.
+
+.. toctree::
+  :numbered:
+  :maxdepth: 3
+
+.. discourse::
+
+:topic_identifier: 666
