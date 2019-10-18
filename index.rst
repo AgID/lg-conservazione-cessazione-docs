@@ -24,4 +24,4 @@ Versione Data       Determinazione Tipologia modifica
    main/02_introduzione.rst
    main/03_riferimenti-sigle.rst
    main/04_requisiti.rst
-   main/05_allegato-a.rst
+   attachments/05_allegato-a.rst
