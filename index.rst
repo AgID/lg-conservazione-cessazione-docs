@@ -20,8 +20,8 @@ Versione Data       Determinazione Tipologia modifica
    :numbered:
    :maxdepth: 3
    
-   main_index.rst
-
-.. only:: html
-
-   .. include:: attA_index.rst
+   main/01_prefazione.rst
+   main/02_introduzione.rst
+   main/03_riferimenti-sigle.rst
+   main/04_requisiti.rst
+   main/05_allegato-a.rst
