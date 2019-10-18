@@ -7,7 +7,7 @@ Requisiti del piano di cessazione
 ---------------------------------
 Il documento Technical Specification (TS), pubblicato da ETSI con
 l’identificativo ETSI `TS 119-511 <https://www.etsi.org/deliver/etsi_ts/119500_119599/119511/01.01.01_60/ts_119511v010101p.pdf>`_;, sui requisiti di policy e sicurezza per i
-trust service providers (TSP) che offrono servizi di conservazione a
+trust service providers (:ref:`TSP <§3>`) che offrono servizi di conservazione a
 lungo termine delle firme digitali o, in generale, di dati che usano
 tecniche di firma digitale, al paragrafo 7.12 stabilisce i requisiti che
 riguardano il processo di cessazione, richiamando quelli indicati nella
@@ -16,9 +16,9 @@ generali per tutti i TSP, aggiungendo un ulteriore requisito che
 riguarda specificatamente i TSP che erogano servizi di conservazione di
 firma digitale o di dati che usano tecniche di firma digitale.
 Per la stesura delle presenti linee guida sono inoltre considerate le
-linee guida ENISA sulla cessazione dei servizi fiduciari qualificati che
+linee guida :ref:`ENISA <§3>` sulla cessazione dei servizi fiduciari qualificati che
 hanno lo scopo di facilitare l'attuazione delle disposizioni relative ai
-servizi fiduciari del regolamento :ref:`eIDAS <eiDAS>` nel settore della cessazione dei
+servizi fiduciari del regolamento :ref:`eIDAS <§3>` nel settore della cessazione dei
 servizi fiduciari.
 
 Tempistiche della procedura di cessazione
@@ -28,7 +28,7 @@ l’attività di conservazione avvia tale procedura dandone comunicazione
 ad AgID almeno 60 giorni prima della data di cessazione.
 La comunicazione, predisposta in formato elettronico e firmata
 digitalmente dal legale rappresentante del conservatore, è trasmessa con
-strumenti idonei alla verifica della consegna (es. PEC) ed è corredata
+strumenti idonei alla verifica della consegna (es. :ref:`PEC <§3>`) ed è corredata
 dal documento di programmazione delle attività di cessazione.
 
 Gestione del documento
