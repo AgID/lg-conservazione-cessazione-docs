@@ -28,6 +28,6 @@ Versione Data       Determinazione Tipologia modifica
 
 .. toctree::
    :name: Allegato_A
-   :maxdepth: 1
+   :hidden:
    
    attachments/05_allegato-a.rst
