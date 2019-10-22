@@ -45,7 +45,7 @@ Sommario
 
 
 Introduzione
-============
+------------
 Descrivere le finalità e gli argomenti contenuti nel documento.
 Indicare i riferimenti delle organizzazioni e dei soggetti che sono
 responsabili della stesura e aggiornamento del documento e della sua
@@ -56,13 +56,13 @@ numero di telefono) del referente del documento e della sua
 area/ufficio.
 
 Definizioni e acronimi
-======================
+----------------------
 
 Riportare le definizioni dei termini utilizzati che possono essere fonte
 di ambiguità e gli acronimi presenti nel documento.
 
 Riferimenti normativi
-=====================
+---------------------
 Si riporta di seguito un esempio di contenuto del paragrafo da
 aggiornare con le norme più recenti.
 
@@ -97,12 +97,12 @@ aggiornare con le norme più recenti.
 -  ISAD (G) - *General International Standard Archival Description*.
 
 Terze parti coinvolte
-=====================
+---------------------
 Indicare le terze parti coinvolte nell'assistere l'esecuzione della
 cessazione descrivendo il loro ruolo e l’ambito di competenza.
 
 Analisi dei rischi
-==================
+------------------
 ione previsto dal piano descrivendo gli eventi probabili che nel
 verificarsi possono produrre effetti indesiderati rilevanti e le
 eventuali azioni di mitigazione individuate da adottare.
@@ -134,7 +134,7 @@ conservazione dovrebbe prendere come riferimento di alto livello la
 norma UNI ISO 31000.
 
 Programmazione delle attività di cessazione
-===========================================
+-------------------------------------------
 Descrivere le modalità per la programmazione delle attività indicate nel
 capitolo successivo considerando le propedeuticità e stimando le durate.
 La programmazione delle attività deve essere:
@@ -154,7 +154,7 @@ Rappresentare la programmazione con un Diagramma di GANNT o strumento
 analogo. Tale documento è trasmesso ad AgID.
 
 Descrizione del processo di cessazione
-======================================
+--------------------------------------
 Nei paragrafi successivi sono riportate le principali attività di cui si
 compone il processo di cessazione che possono essere
 integrate/modificate sulla base dell’organizzazione e di esigenze
@@ -163,7 +163,7 @@ riportare le risorse utilizzate, i documenti in input, i documenti in
 output, la durata e la figura responsabile.
 
 Avvio del processo 
--------------------
+~~~~~~~~~~~~~~~~~~
 Indicare il processo di individuazione degli eventi potenziale causa di
 cessazione del servizio. Descrivere con una matrice di assegnazione
 delle responsabilità (tabella RACI) le attività e gli organi
@@ -174,7 +174,7 @@ Descrivere il processo di programmazione delle attività definendo le
 propedeuticità, i ruoli e le responsabilità e stimando le durate.
 
 Comunicazione ai clienti del servizio
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Indicare l’organo preposto alla comunicazione. Riportare i tempi, il
 contenuto e le modalità di comunicazione ai soggetti produttori
 dell’imminente cessazione del servizio di conservazione.
@@ -196,21 +196,21 @@ Per i clienti privati occorre indicare l’ulteriore opzione di continuare
 ad avvalersi del servizio senza più l’accreditamento previo accordo tra
 le parti.
 
-Comunicazione ad AglD
----------------------
+Comunicazione ad AgID
+~~~~~~~~~~~~~~~~~~~~~
 Indicare l’organo preposto alla comunicazione. Riportare i tempi, il
 contenuto e le modalità di comunicazione ad AgID dell’imminente
 cessazione del servizio di conservazione.
 
 Comunicazioni a eventuali terze parti coinvolte
------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Indicare l’organo preposto alla comunicazione. Riportare i tempi, il
 contenuto, l’elenco dei destinatari e le modalità di comunicazione
 dell’imminente cessazione del servizio di conservazione ai soggetti
 terzi.
 
 Analisi preliminare dei pacchetti di archiviazione
---------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Indicare i ruoli e responsabilità dell’attività. L’attività riguarda la
 mappatura degli archivi da rappresentare con elenchi di consistenza
 suddivisi per soggetti produttori in cui sono indicate almeno le
@@ -226,7 +226,7 @@ eventuali piani di classificazione e di scarto utilizzati per la
 gestione dei complessi documentari.
 
 Trasferimento degli archivi di conservazione
---------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Descrivere le procedure e gli aspetti tecnici e i tempi per la messa a
 disposizione degli archivi di conservazione.
 
@@ -257,18 +257,18 @@ pianificare:
    trasferimento.
 
 Comunicazione delle modalità e tempistiche di trasferimento degli archivi
--------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Descrivere le modalità e i contenuti della comunicazione da inviare ai
 soggetti produttori.
 
 Predisposizione delle infrastrutture per la migrazione degli archivi di conservazione
--------------------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Descrivere le attività operative per la configurazione delle
 infrastrutture per la migrazione del contenuto degli archivi di
 conservazione.
 
 Descrizione del processo di migrazione
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Rappresentare il processo di migrazione degli archivi indicando le fasi
 previste e le relative descrizioni. Riportare anche le attività di
 controllo, da parte del conservatore cessante, sul contenuto degli
@@ -276,7 +276,7 @@ archivi da trasferire al fine di dichiarare completata l’attività a cui
 seguirà la comunicazione al soggetto subentrante.
 
 Trasferimento e presa in carico da parte del soggetto subentrante
------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Riportare la descrizione delle fasi previste per il trasferimento degli
 archivi al soggetto subentrante comprese le fasi di presa in carico e
 comunicazione del passaggio di responsabilità. Specificare le
@@ -286,7 +286,7 @@ azioni previste a garanzia dei vincoli sulla privacy dei dati
 trasferiti.
 
 Cancellazione degli archivi di conservazione 
-=============================================
+--------------------------------------------
 Indicare tempi e modalità di cancellazione dei dati di conservazione
 specificando i passaggi comunicativi con i soggetti produttori.
 Eventuale dismissione dell’infrastruttura di conservazione. Il
