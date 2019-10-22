@@ -25,6 +25,11 @@ Allegato A: Piano di Cessazione del Servizio di Conservazione
 
 Sommario
 --------
+
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+
 **Sommario**
 
 `1. Introduzione <#introduzione>`__
