@@ -24,4 +24,11 @@ Versione Data       Determinazione Tipologia modifica
    main/02_introduzione.rst
    main/03_riferimenti-sigle.rst
    main/04_requisiti.rst
+
+
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+   :hidden:
+
    attachments/05_allegato-a.rst
