@@ -1,5 +1,15 @@
 document:
+  type: Linee guida
   name: Linee Guida sul piano di cessazione conservatori
+  short_name: Linee Guida cessazione conservatori
+  author: walter-arrighetti
+  contributors:
+    - Stefano Arbia
+    - Walter Arrighetti
+    - Dario Biani
+    - Stefano Ianniello
+    - Andrea Spallacci
+    - Cristina Valiante
   description: |
     Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti digitali
   tags:
@@ -7,3 +17,4 @@ document:
     - conservazione sostitutiva
     - cessazione
     - eIDAS
+  origin: https://github.com/test-lg/test-lg-13/
