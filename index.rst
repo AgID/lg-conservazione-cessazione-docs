@@ -27,7 +27,7 @@ Versione Data       Determinazione Tipologia modifica
 
 
 .. toctree::
-   :name: glossary_toc
+   :name: Allegato_A
    :maxdepth: 1
    
    attachments/05_allegato-a.rst
