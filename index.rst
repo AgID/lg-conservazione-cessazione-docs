@@ -33,7 +33,6 @@ Versione Data       Determinazione Tipologia modifica
 
 .. toctree::
    :name: allegato_a_toc
-   :numbered:
    :hidden:
 
    attachments/05_allegato-a.rst
