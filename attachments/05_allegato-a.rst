@@ -31,8 +31,6 @@ Sommario
    :name: Sommario
    :numbered:
 
-**Sommario**
-
 `1. Introduzione <#introduzione>`__
 
 `2. Definizioni e acronimi <#definizioni-e-acronimi>`__
