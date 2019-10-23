@@ -31,21 +31,21 @@ Sommario
    :name: Sommario
    :numbered:
 
-   `1. Introduzione <#introduzione>`__
+`1. Introduzione <#introduzione>`__
 
-   `2. Definizioni e acronimi <#definizioni-e-acronimi>`__
+`2. Definizioni e acronimi <#definizioni-e-acronimi>`__
 
-   `3. Riferimenti normativi <#riferimenti-normativi>`__
+`3. Riferimenti normativi <#riferimenti-normativi>`__
 
-   `4. Terze parti coinvolte <#terze-parti-coinvolte>`__
+`4. Terze parti coinvolte <#terze-parti-coinvolte>`__
 
-   `5. Analisi dei rischi <#analisi-dei-rischi>`__
+`5. Analisi dei rischi <#analisi-dei-rischi>`__
 
-   `6. Programmazione delle attività di cessazione <#programmazione-delle-attivita-di-cessazione>`__
+`6. Programmazione delle attività di cessazione <#programmazione-delle-attivita-di-cessazione>`__
 
-   `7. Descrizione del processo di cessazione <#descrizione-del-processo-di-cessazione>`__
+`7. Descrizione del processo di cessazione <#descrizione-del-processo-di-cessazione>`__
 
-   `8. Cancellazione degli archivi di conservazione <#cancellazione-degli-archivi-di-conservazione>`__
+`8. Cancellazione degli archivi di conservazione <#cancellazione-degli-archivi-di-conservazione>`__
 
 
 Introduzione
