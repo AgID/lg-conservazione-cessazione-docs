@@ -35,6 +35,7 @@ presente Linee Guida:
 -  [PEC] posta elettronica certificata;
 -  [TS] documento ETSI contenente requisiti tecnici.
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
