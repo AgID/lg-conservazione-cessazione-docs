@@ -303,6 +303,7 @@ del servizio (EIDAS art. 24 par.2, lettera h). Indicare inoltre i ruoli
 coinvolti e le modalità di gestione della prova della distruzione degli
 archivi.
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
