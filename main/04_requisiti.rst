@@ -57,6 +57,7 @@ informazioni da riportare.
 Il piano di cessazione deve considerare sia il caso di cessazione
 volontaria che involontaria (ritiro dell’accreditamento).
 
-.. discourse::
 
-:topic_identifier: 666
+.. forum_italia::
+   :topic_id: 6
+   :scope: document
