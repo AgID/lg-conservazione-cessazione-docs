@@ -10,8 +10,8 @@ l’accreditamento a svolgere l’attività di conservatore dei documenti inform
 
 ## Link al documento e consultazione
 
-Link al documento *Docs Italia*: https://lg-spid-NOME.readthedocs.io
+Link al documento *Docs Italia*: https://docs.italia.it/AgID/documenti-in-consultazione/lg-conservazione-cessazione/it/stabile
 
-Link per commenti *Forum Italia*: https://forum.italia.it/c/documenti-in-consultazione/lg-spid-NOME
+Link per commenti *Forum Italia*: https://forum.italia.it/c/documenti-in-consultazione/lg-conservazione-cessazione
 
 La consultazione è attiva al 20 novembre 2019 al 20 dicembre 2019.
