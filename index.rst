@@ -3,7 +3,7 @@ Linee Guida per la stesura del piano di cessazione del servizio di conservazione
 
 .. highlights::
 
-   Linee guida AgID
+   Linee guida ex art. 71 del CAD
 
 .. admonition:: consultation
 
