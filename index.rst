@@ -38,3 +38,7 @@ Versione Data       Determinazione Tipologia modifica
    :hidden:
 
    attachments/05_allegato-a.rst
+
+.. forum_italia::
+   :topic_id: 12200
+   :scope: document
