@@ -14,4 +14,4 @@ Link al documento *Docs Italia*: https://lg-spid-NOME.readthedocs.io
 
 Link per commenti *Forum Italia*: https://forum.italia.it/c/documenti-in-consultazione/lg-spid-NOME
 
-La consultazione sarà attiva dal GG MESE 20?? al GG MESE 20??.
+La consultazione è attiva al 20 novembre 2019 al 20 dicembre 2019.
