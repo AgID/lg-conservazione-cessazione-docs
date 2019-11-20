@@ -30,7 +30,7 @@ suddetto regolamento.
 Struttura
 ---------
 La presente linea guida oltre al documento suddetto è composto
-dall’:ref:`allegato tecnicp A <§5>`, *Schema del piano di cessazione*.
+dall’:ref:`allegato tecnico A <§5>`, *Schema del piano di cessazione*.
 
 Gruppo di lavoro
 ----------------
