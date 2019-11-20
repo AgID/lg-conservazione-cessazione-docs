@@ -2,8 +2,8 @@ Linee Guida per la stesura del piano di cessazione del servizio di conservazione
 =======================================================================================================
 
 .. admonition:: consultation
-   La consultazione pubblica relativa al presente documento è attiva dal **14
-   maggio** al **13 giugno 2019**. Questo documento raccoglie il testo delle
+   La consultazione pubblica relativa al presente documento è attiva dal
+   **20 novembre** al **dicembre 2019**. Questo documento raccoglie il testo delle
    Linee guida in oggetto, disponibile per la consultazione pubblica.
 
 .. Note::
