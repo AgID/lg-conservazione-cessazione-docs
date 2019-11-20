@@ -107,8 +107,9 @@ cessazione descrivendo il loro ruolo e l’ambito di competenza.
 
 Analisi dei rischi
 ------------------
-ione previsto dal piano descrivendo gli eventi probabili che nel
-verificarsi possono produrre effetti indesiderati rilevanti e le
+Descrivere gli elementi dell’analisi dei rischi correlati al processo
+di cessazione previsto dal piano descrivendo gli eventi probabili che
+nel verificarsi possono produrre effetti indesiderati rilevanti e le
 eventuali azioni di mitigazione individuate da adottare.
 
 Alcuni eventi possono derivare dalla gestione del sistema di
