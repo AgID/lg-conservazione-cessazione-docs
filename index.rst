@@ -1,13 +1,15 @@
 Linee Guida per la stesura del piano di cessazione del servizio di conservazione dei documenti digitali
 =======================================================================================================
 
-.. admonition:: consultation
-   La consultazione pubblica relativa al presente documento è attiva dal
-   **20 novembre** al **dicembre 2019**. Questo documento raccoglie il testo delle
-   Linee guida in oggetto, disponibile per la consultazione pubblica.
+.. highlights::
 
-.. Note::
-   Versione 0.1 del 02/10/2019
+   Linee guida AgID
+
+.. admonition:: consultation
+
+   La consultazione pubblica relativa al presente documento è attiva dal 
+   **20 novembre** al **20 dicembre 2019**. Questo documento raccoglie il
+   testo delle Linee guida in oggetto, disponibile per la consultazione pubblica.
 
 ======== ========== ============== =====================================
 Versione Data       Determinazione Tipologia modifica
