@@ -10,7 +10,7 @@ documento.
 
 -  [Reg. UE 910/2014] - Regolamento (UE) №910/2014 del Parlamento e del
    Consiglio europeo, del 23 luglio 2014, noto come Regolamento "eIDAS"
-   (*eletronic IDentification Authentication and Signature and eletronic
+   (*electronic IDentification Authentication and Signature and eletronic
    trust services*);
 -  [D.Lgs. 82/2005] Decreto legislativo 7 marzo 2005, №82 e s.m.i.
    recante “Codice dell’amministrazione digitale” noto anche con
